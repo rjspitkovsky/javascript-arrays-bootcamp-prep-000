@@ -45,4 +45,4 @@ function removeElementFromEndOfArray(array) {
 }
 
 
-var arr = ["under", "the", "hood"] 
+var arr = ["under", "the", "hood"]
